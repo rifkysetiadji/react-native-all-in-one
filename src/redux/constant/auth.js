@@ -1,0 +1,5 @@
+export const LOGIN_SUBMIT='LOGIN_SUBMIT';
+export const REGISTER_SUBMIT='REGISTER_SUBMIT';
+export const LOGOUT_SUBMIT='LOGOUT_SUBMIT';
+export const LOADING='LOADING';
+export const USER_DETAIL='USER_DETAIL';
